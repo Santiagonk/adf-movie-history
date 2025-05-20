@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf-santiago",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f05fc1c-3550-4196-a1fa-1719cb785552",
+		"tenantId": "4ca3f7a9-84ec-480e-91ec-28cd2e0b8458"
+	}
+}
